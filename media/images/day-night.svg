@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" stroke="black">
+
+	<clipPath id="cut-right">
+    	<rect width="32" height="64" x="0" y="0"/>
+    </clipPath>
+    <clipPath id="cut-left">
+    	<rect width="32" height="64" x="32" y="0"/>
+    </clipPath>
+    
+	<circle cx="32" cy="32" r="20" stroke-width="4" fill="none" clip-path="url(#cut-left)"/>
+	<circle cx="32" cy="32" r="20" stroke-width="4" fill="black" clip-path="url(#cut-right)"/>
+    
+	<rect width="04" height="14" x="30" y="00" stroke-width="0"/>
+	<rect width="04" height="14" x="30" y="50" stroke-width="0"/>
+    
+	<rect width="14" height="04" x="50" y="30" stroke-width="0"/>
+    
+	<rect width="08" height="04" x="52" y="32" stroke-width="0" transform="translate(32 -16) rotate(45)"/>
+	<rect width="08" height="04" x="52" y="32" stroke-width="0" transform="translate(-16 32) rotate(-45)"/>
+</svg>

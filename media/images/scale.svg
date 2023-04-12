@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64">
+	<polygon points="0,64 16,32 48,64" style="fill:black" />
+	<polygon points="32,64 48,0 64,64" style="fill:black" />
+</svg>

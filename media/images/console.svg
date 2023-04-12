@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" fill="currentColor">
+    <rect width="64" height="48" x="0" y="8" rx="4" stroke-width="0"/>
+    <text x="4" y="24" fill="white" font-family="Arial" font-weight="bold" font-size="14px">>_</text>
+</svg>

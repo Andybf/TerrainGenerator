@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" stroke="black">
+	<g fill="none" stroke-width="4">
+	   	<path d="
+	      	M02,22 L32,40 L62,22
+	        M62,62 L48,40 L32,62
+	        L16,40 L02,62
+	    "/>
+	</g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64">
+	<circle cx="32" cy="32" r="16" stroke-width="0" fill="black"/>
+    <rect width="04" height="64" x="30" y="00" stroke-width="0"/>
+    <rect width="64" height="04" x="00" y="30" stroke-width="0"/>
+    
+    <rect width="48" height="04" x="10" y="32" stroke-width="0" transform="translate(32 -16) rotate(45)"/>
+    <rect width="48" height="04" x="10" y="32" stroke-width="0" transform="translate(-16 32) rotate(-45)"/>
+</svg>

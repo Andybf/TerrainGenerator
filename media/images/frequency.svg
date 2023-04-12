@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Created by: Anderson Bucchianico - 2023
+-->
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" stroke="currentColor">
+	<g fill="none" stroke-width="4">
+    	<path d="
+			M02,32
+			Q02,00 10,16  Q10,58 18,60
+			Q32,58 32,24  Q40,00 48,32
+			Q52,60 58,60
+        "/>
+    </g>
+</svg>
